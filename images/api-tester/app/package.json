@@ -1,0 +1,29 @@
+{
+  "name": "api-tester",
+  "version": "1.0.0",
+  "description": "API tester",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcgov/common-services-team-library.git"
+  },
+  "keywords": [
+    "Postman",
+    "Newman",
+    "API",
+    "CHES",
+    "CDOGS"
+  ],
+  "author": "NR Common Service Showcase <NR.CommonServiceShowcase@gov.bc.ca>",
+  "license": "Apache-2.0",
+  "dependencies": {
+  },
+  "bugs": {
+    "url": "https://github.com/bcgov/common-services-team-library/issues"
+  },
+  "homepage": "https://github.com/bcgov/common-services-team-library#readme"
+}
